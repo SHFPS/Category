@@ -1,0 +1,10 @@
+name: FormUI
+main: MyPlugin\forms\Main
+author: LuizMinecrapt
+api: 3.0.0
+version: 1.2.0
+
+commands:
+  form:
+    description: "FormUI"
+    permission: form.ui
